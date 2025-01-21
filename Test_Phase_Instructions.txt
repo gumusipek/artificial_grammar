@@ -1,0 +1,13 @@
+In this phase, you will see pseudo words, just like in the training phase. However, this time, some of the words will follow the same grammar rule that you learned during the training phase, while others will follow a different rule.
+
+
+Your task is to decide whether the word follows the same rule as the training phase or not.
+
+If you think the word follows the same rule, press the J key.
+If you think the word does not follow the same rule, press the F key.
+
+
+Please respond as fast as possible as you have limited time for pressing the key for each word.
+
+
+When you are ready, you can press SPACE BAR to continue.

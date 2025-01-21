@@ -1,0 +1,12 @@
+Welcome to the Experiment
+
+
+This experiment consists of two parts. You are now about to begin the first part.
+
+In this phase, you will see a series of pseudo (non-sense) words on the screen. 
+
+Your task is to rewrite the words exactly as you see them and press ENTER when you are done with typing. If you would like to delete a letter you wrote, you can use BACKSPACE key.
+
+You will receive feedback, if your response is incorrect, and you will need to retype the word until you get it right.
+
+When you are ready to start, press the SPACE BAR to continue.

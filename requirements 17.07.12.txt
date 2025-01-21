@@ -1,0 +1,5 @@
+python==3.10.15
+PsychoPy==2024.2.4
+matplotlib==3.9.2
+pandas==2.2.2
+seaborn==0.13.2
